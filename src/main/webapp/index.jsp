@@ -9,8 +9,8 @@
 
   <h1> Learn Here, Lead anywhere </h1>
 
-  <h3> when it comes to It, be rest assured that you can rely on us any time any day to deliver your solutions and you will never have been happier than you were.
-    In order to find an investor, you will need a pitch deck.
+<h3><font color='blue'> when it comes to It, be rest assured that you can rely on us any time any day to deliver your solutions and you will never have been happier than you were.
+  In order to find an investor, you will need a pitch deck.
 
 There are tons of resources online. But it’s all generic and you'll find that it never really fits your exact business.
 
@@ -22,10 +22,7 @@ How do you know what went wrong?
 
 "Am I asking for too much investment?"
 
-"Did they understand what we’re building?"
-
-"Am I giving too much information?" </h3>
-<h3><font color='blue'> Welcome to Ashok IT - Software Training Institute <font></h3>
+"Did they understand what we’re building?" <font></h3>
 
 
 </body>
